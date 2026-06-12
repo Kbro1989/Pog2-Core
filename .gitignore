@@ -1,0 +1,16 @@
+# Standard exclusions
+node_modules/
+package-lock.json
+.DS_Store
+Thumbs.db
+.env
+*.log
+tmp/
+temp/
+dist/
+build/
+.cache/
+
+# Sovereign specific exclusions (optional, but node_modules is a must)
+**/node_modules/
+cache_pedagogy/rsmv_inspector/

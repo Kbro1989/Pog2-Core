@@ -1,0 +1,12 @@
+{
+  "name": "sovereign-parser",
+  "version": "1.0.0",
+  "description": "Library of primitives for parsing",
+  "main": "src/server.js",
+  "scripts": {
+    "hot": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
